@@ -98,4 +98,4 @@ pip install -r requirements.txt
 
 ---
 
-© Your Name | M.Eng Mechatronics and Robotics | Master Thesis 2025
+© Ram Charan Vuyyala | M.Eng Mechatronics and Robotics 
